@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "684237957424",
+    "project_id": "store-7ae1b",
+    "storage_bucket": "store-7ae1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684237957424:android:4221df3ac633048e4980f5",
+        "android_client_info": {
+          "package_name": "com.taivan.store_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684237957424-muv0bc9j0l73om4g6om6tdahpe85chrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDziwS5-f-RA-VtMlNAQBIGAgTrSP0fSaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684237957424-muv0bc9j0l73om4g6om6tdahpe85chrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684237957424:android:0703c2a6616d06dc4980f5",
+        "android_client_info": {
+          "package_name": "com.taivan.store_vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684237957424-muv0bc9j0l73om4g6om6tdahpe85chrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDziwS5-f-RA-VtMlNAQBIGAgTrSP0fSaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684237957424-muv0bc9j0l73om4g6om6tdahpe85chrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
